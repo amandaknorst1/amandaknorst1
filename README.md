@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá! Meu nome é Amanda, seja bem-vindo ao meu perfil. :sunflower:
+
+
+
+
 
 <!--
 **amandaknorst1/amandaknorst1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
