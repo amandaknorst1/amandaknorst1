@@ -1,4 +1,11 @@
-# Olá! Meu nome é Amanda, seja bem-vindo ao meu perfil. :sunflower:
+ #:dizzy: Olá! Meu nome é Amanda, seja bem-vindo ao meu perfil.:dizzy:
+
+  * Estudante
+    ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+##Ferramentas e tecnologias :computer:
+
+
 
 
 
